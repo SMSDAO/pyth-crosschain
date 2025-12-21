@@ -24,7 +24,7 @@
   "dependencies": {
     "@pythnetwork/contract-manager": "workspace:*",
     "@pythnetwork/pyth-aptos-js": "workspace:*",
-    "aptos": "^1.3.14",
+    "aptos": "^1.22.1",
     "ethers": "^5.7.1",
     "js-sha3": "^0.8.0",
     "yargs": "^17.5.1"
