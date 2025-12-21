@@ -48,7 +48,7 @@
     "url": "git+https://github.com/pyth-network/pyth-crosschain.git"
   },
   "dependencies": {
-    "@certusone/wormhole-sdk": "^0.9.8",
+    "@certusone/wormhole-sdk": "^0.10.18",
     "@coral-xyz/anchor": "^0.29.0",
     "@cosmjs/cosmwasm-stargate": "^0.32.3",
     "@cosmjs/stargate": "^0.32.3",
@@ -71,12 +71,12 @@
     "@pythnetwork/xc-admin-common": "workspace:*",
     "@solana/web3.js": "^1.73.0",
     "@sqds/mesh": "^1.0.6",
-    "@ton/blueprint": "^0.22.0",
+    "@ton/blueprint": "^0.24.0",
     "@ton/core": "^0.59.0",
     "@ton/crypto": "^3.3.0",
     "@ton/ton": "^15.1.0",
     "@types/yargs": "^17.0.32",
-    "aptos": "^1.5.0",
+    "aptos": "^1.22.1",
     "axios": "^0.24.0",
     "bs58": "^5.0.0",
     "extract-files": "^13.0.0",
@@ -87,7 +87,7 @@
     "ts-node": "catalog:",
     "typescript": "catalog:",
     "viem": "^2.23.5",
-    "web3": "^1.8.2",
+    "web3": "^4.0.1",
     "web3-eth-contract": "^1.8.2"
   },
   "devDependencies": {
