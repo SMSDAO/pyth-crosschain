@@ -39,8 +39,8 @@
     "@sqds/mesh": "^1.0.6",
     "bigint-buffer": "^1.1.5",
     "bn.js": "^5.2.1",
-    "ethers": "^5.7.2",
-    "lodash": "^4.17.21",
+    "ethers": "^6.0.0",
+    "lodash": "^4.17.23",
     "message_buffer": "workspace:^",
     "typescript": "^4.9.4"
   },
