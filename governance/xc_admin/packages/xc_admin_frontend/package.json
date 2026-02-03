@@ -36,7 +36,7 @@
     "copy-to-clipboard": "^3.3.3",
     "gsap": "^3.11.4",
     "message_buffer": "workspace:^",
-    "next": "catalog:",
+    "next": "16.1.5",
     "next-seo": "^5.15.0",
     "nuqs": "catalog:",
     "react": "catalog:",
