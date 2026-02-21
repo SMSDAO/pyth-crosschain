@@ -40,7 +40,7 @@
     "dnum": "catalog:",
     "framer-motion": "catalog:",
     "ip-range-check": "catalog:",
-    "next": "catalog:",
+    "next": "16.1.5",
     "pino": "catalog:",
     "proxycheck-ts": "catalog:",
     "react": "catalog:",
