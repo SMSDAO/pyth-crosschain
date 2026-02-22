@@ -32,7 +32,7 @@
     "@solana/web3.js": "^1.73.0",
     "@sqds/mesh": "^1.0.6",
     "@tanstack/react-table": "^8.7.6",
-    "axios": "^1.4.0",
+    "axios": "^1.13.5",
     "copy-to-clipboard": "^3.3.3",
     "gsap": "^3.11.4",
     "message_buffer": "workspace:^",
