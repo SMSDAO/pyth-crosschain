@@ -33,7 +33,7 @@
     "clsx": "catalog:",
     "connectkit": "catalog:",
     "framer-motion": "catalog:",
-    "next": "catalog:",
+    "next": "16.1.5",
     "next-themes": "catalog:",
     "pino": "catalog:",
     "react": "catalog:",
