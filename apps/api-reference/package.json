@@ -41,7 +41,7 @@
     "react-markdown": "catalog:",
     "shiki": "catalog:",
     "viem": "catalog:",
-    "wagmi": "catalog:",
+    "wagmi": "3.0.0",
     "zod": "catalog:"
   },
   "devDependencies": {
