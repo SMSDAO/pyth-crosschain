@@ -52,7 +52,7 @@
   "dependencies": {
     "@pythnetwork/price-service-sdk": "workspace:*",
     "@types/ws": "^8.5.3",
-    "axios": "^1.5.1",
+    "axios": "^1.13.5",
     "axios-retry": "^4.0.0",
     "isomorphic-ws": "^4.0.1",
     "ts-log": "^2.2.4",
