@@ -23,7 +23,7 @@
   "dependencies": {
     "@certusone/wormhole-sdk": "^0.10.15",
     "@coral-xyz/anchor": "^0.29.0",
-    "@injectivelabs/sdk-ts": "^1.10.72",
+    "@injectivelabs/sdk-ts": "^1.17.2",
     "@project-serum/anchor": "^0.25.0",
     "@pythnetwork/client": "catalog:",
     "@pythnetwork/xc-admin-common": "workspace:*",
