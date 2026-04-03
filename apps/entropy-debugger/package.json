@@ -24,7 +24,7 @@
     "clsx": "catalog:",
     "highlight.js": "catalog:",
     "lucide-react": "catalog:",
-    "next": "catalog:",
+    "next": "16.1.5",
     "react": "catalog:",
     "react-dom": "catalog:",
     "tailwind-merge": "catalog:",
