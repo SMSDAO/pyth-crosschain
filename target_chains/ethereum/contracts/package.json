@@ -44,7 +44,7 @@
     "elliptic": "^6.5.2",
     "ethers": "^5.7.2",
     "ganache": "^7.7.3",
-    "hardhat": "^2.12.5",
+    "hardhat": "^3.0.0",
     "jsonfile": "^4.0.0",
     "lodash": "^4.17.21",
     "solc": "0.8.4",
