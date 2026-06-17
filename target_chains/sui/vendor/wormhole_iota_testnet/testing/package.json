@@ -6,7 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "@certusone/wormhole-sdk": "^0.10.18",
-    "@mysten/sui.js": "^0.32.2",
+    "@mysten/sui.js": "^0.54.1",
     "chai": "^4.3.7",
     "mocha": "^10.6.0",
     "prettier": "^2.8.7",
